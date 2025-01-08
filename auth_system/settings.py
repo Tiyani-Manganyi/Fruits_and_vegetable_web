@@ -48,7 +48,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'kbmagoda2024@gmail.com'
 EMAIL_HOST_PASSWORD = 'flyvrujeneixhaxg' 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fruits-and-vegetable-web.onrender.com', 'localhost']
 
 STRIPE_SECRET_KEY = "sk_test_51QMqsaEeTeKgicdttMboVjy6RlEpcBrcwP8EQDJj5cU0cPN2npdI7GPgZFX9Zh4b8MIf3IHeHQof1lw2wewBhZop00iSsgrOpf"
 STRIPE_PUBLISHABLE_KEY = "pk_test_51QMqsaEeTeKgicdtLPjUOcShME6OtHSLakMOjK3wH56TUPZDfu8U7adM8by4Cmgy30NysUwBQPgcghbXlbBSpJnj00tQz2Jp0S"

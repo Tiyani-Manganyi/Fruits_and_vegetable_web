@@ -58,6 +58,7 @@ tzlocal==5.2
 uritools==4.0.3
 urllib3==1.25.11
 virtualenv==20.27.0
+waitress==3.0.2
 webencodings==0.5.1
 wheel==0.44.0
 xhtml2pdf==0.2.16
