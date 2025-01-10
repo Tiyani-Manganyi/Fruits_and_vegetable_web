@@ -32,7 +32,7 @@ STRIPE_TEST_PUBLIC_KEY ='pk_test_51QMqsaEeTeKgicdtLPjUOcShME6OtHSLakMOjK3wH56TUP
 STRIPE_SECRET_KEY = 'sk_test_51QMqsaEeTeKgicdttMboVjy6RlEpcBrcwP8EQDJj5cU0cPN2npdI7GPgZFX9Zh4b8MIf3IHeHQof1lw2wewBhZop00iSsgrOpf'  # Replace with your Stripe secret key
 
 
-STATIC_URL = '/static/'
+STATIC_URL = '/staticfiles/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 
